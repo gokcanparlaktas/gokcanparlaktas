@@ -20,6 +20,8 @@ I'm constantly refining my skills in front-end development and exploring new tec
 In 2003, I began building my own websites on a platform that allowed users to create ready-made sites. My websites focused on Beyblade and dogs, sparking my early passion for web development and design.
 When I'm not coding, you can find me cooking, watching documentaries, practicing martial arts, or organizing trips outside the city.
 Feel free to check out my repositories and let’s connect!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokcanparlaktas&layout=donut-vertical)](https://github.com/gokcanparlaktas/github-readme-stats)
 <!---
 gokcanparlaktas/gokcanparlaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
