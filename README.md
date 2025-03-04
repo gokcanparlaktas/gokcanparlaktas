@@ -2,12 +2,12 @@ Hi there, I'm Gökcan! 👋
 Welcome to my GitHub profile! I'm a Junior Front-End Developer with a strong passion for coding and continuous learning. After transitioning from Mechanical Engineering to Software Development, I'm focused on growing my skills and creating meaningful web applications.
 
 🛠️ Technologies I Work With
-React & Redux: I enjoy creating dynamic, user-friendly interfaces using React and manage state effectively with Redux.
-Tailwind CSS: I believe in fast and efficient styling with Tailwind, making responsive and maintainable designs.
-Bootstrap: I use Bootstrap for building responsive, mobile-first web applications.
-JavaScript (ES6+): Crafting interactive, performance-oriented applications with JavaScript.
-React Context API: I leverage the Context API for state management across large-scale applications.
-HTML & CSS: Solid understanding of semantic HTML and modern CSS for creating beautiful, accessible web pages.
+React & Redux: I enjoy creating dynamic, user-friendly interfaces using React and manage state effectively with Redux.<br>
+Tailwind CSS: I believe in fast and efficient styling with Tailwind, making responsive and maintainable designs.<br>
+Bootstrap: I use Bootstrap for building responsive, mobile-first web applications.<br>
+JavaScript (ES6+): Crafting interactive, performance-oriented applications with JavaScript.<br>
+React Context API: I leverage the Context API for state management across large-scale applications.<br>
+HTML & CSS: Solid understanding of semantic HTML and modern CSS for creating beautiful, accessible web pages.<br>
 Photoshop: I create my own visuals and graphics, bringing a design-first approach to my projects.
 
 💡 What I'm Working On
