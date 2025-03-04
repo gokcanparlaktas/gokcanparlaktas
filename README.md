@@ -11,10 +11,10 @@ HTML & CSS: Solid understanding of semantic HTML and modern CSS for creating bea
 Photoshop: I create my own visuals and graphics, bringing a design-first approach to my projects.
 
 💡 What I'm Working On
-Currently, I'm working on PixelWear, an exciting e-commerce project.
+Currently, I'm working on HeptaIT as a Front-End Developer and building web applications with HTML,Bootstrap, CSS and JavaScript.
 
 🌱 What I'm Learning
-I'm constantly refining my skills in front-end development and exploring new technologies that enhance user experiences. In the near future, I plan to learn TypeScript and Next.js.
+I'm constantly refining my skills in front-end development and exploring new technologies that enhance user experiences. Now, i'm working on jQuery,in the near future, I plan to learn TypeScript,Golang and Next.js.
 
 📌 Fun Facts
 In 2003, I began building my own websites on a platform that allowed users to create ready-made sites. My websites focused on Beyblade and dogs, sparking my early passion for web development and design.
