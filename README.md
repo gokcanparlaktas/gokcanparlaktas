@@ -10,13 +10,13 @@ Welcome to my GitHub profile! <br> I'm a Junior Front-End Developer with a stron
 <strong>HTML & CSS:</strong> Solid understanding of semantic HTML and modern CSS for creating beautiful, accessible web pages.<br>
 <strong>Photoshop:</strong> I create my own visuals and graphics, bringing a design-first approach to my projects.
 
-<strong>💡 What I'm Working On</strong>
+<strong>💡 What I'm Working On<br></strong>
 Currently, I'm working on HeptaIT as a Front-End Developer and building web applications with HTML,Bootstrap, CSS and JavaScript.
 
-<strong>🌱 What I'm Learning</strong>
+<strong>🌱 What I'm Learning<br></strong>
 I'm constantly refining my skills in front-end development and exploring new technologies that enhance user experiences. Now, i'm working on jQuery,in the near future, I plan to learn TypeScript,Golang and Next.js.
 
-<strong>📌 Fun Facts</strong>
+<strong>📌 Fun Facts<br></strong>
 In 2003, I began building my own websites on a platform that allowed users to create ready-made sites. My websites focused on Beyblade and dogs, sparking my early passion for web development and design.
 When I'm not coding, you can find me cooking, watching documentaries, practicing martial arts, or organizing trips outside the city.
 Feel free to check out my repositories and let’s connect!
