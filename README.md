@@ -1,5 +1,5 @@
-Hi there, I'm Gökcan! 👋
-Welcome to my GitHub profile! I'm a Junior Front-End Developer with a strong passion for coding and continuous learning. After transitioning from Mechanical Engineering to Software Development, I'm focused on growing my skills and creating meaningful web applications.
+Hi there, I'm Gökcan! 👋 <br>
+Welcome to my GitHub profile! <br> I'm a Junior Front-End Developer with a strong passion for coding and continuous learning. After transitioning from Mechanical Engineering to Software Development, I'm focused on growing my skills and creating meaningful web applications.
 
 <strong>🛠️ Technologies I Work With<br></strong>
 <strong>React & Redux:</strong> I enjoy creating dynamic, user-friendly interfaces using React and manage state effectively with Redux.<br>
@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I'm a Junior Front-End Developer with a strong pas
 <strong>HTML & CSS:</strong> Solid understanding of semantic HTML and modern CSS for creating beautiful, accessible web pages.<br>
 <strong>Photoshop:</strong> I create my own visuals and graphics, bringing a design-first approach to my projects.
 
-💡 What I'm Working On
+<strong>💡 What I'm Working On</strong>
 Currently, I'm working on HeptaIT as a Front-End Developer and building web applications with HTML,Bootstrap, CSS and JavaScript.
 
-🌱 What I'm Learning
+<strong>🌱 What I'm Learning</strong>
 I'm constantly refining my skills in front-end development and exploring new technologies that enhance user experiences. Now, i'm working on jQuery,in the near future, I plan to learn TypeScript,Golang and Next.js.
 
-📌 Fun Facts
+<strong>📌 Fun Facts</strong>
 In 2003, I began building my own websites on a platform that allowed users to create ready-made sites. My websites focused on Beyblade and dogs, sparking my early passion for web development and design.
 When I'm not coding, you can find me cooking, watching documentaries, practicing martial arts, or organizing trips outside the city.
 Feel free to check out my repositories and let’s connect!
