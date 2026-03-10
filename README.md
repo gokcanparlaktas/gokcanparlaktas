@@ -1,29 +1,92 @@
-Hi there, I'm Gökcan! 👋 <br>
-Welcome to my GitHub profile! <br> I'm a Junior Front-End Developer with a strong passion for coding and continuous learning. After transitioning from Mechanical Engineering to Software Development, I'm focused on growing my skills and creating meaningful web applications.
+# Hi there, I'm Gökcan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&width=900&lines=Frontend-Focused+Full-Stack+Developer;React+%2F+Next.js+%2F+Node.js+%2F+Express.js;E-Commerce+%26+AI+Integration)](https://git.io/typing-svg)
 
-<strong>🛠️ Technologies I Work With<br></strong>
-<strong>React & Redux:</strong> I enjoy creating dynamic, user-friendly interfaces using React and manage state effectively with Redux.<br>
-<strong>Tailwind CSS:</strong> I believe in fast and efficient styling with Tailwind, making responsive and maintainable designs.<br>
-<strong>Bootstrap:</strong> I use Bootstrap for building responsive, mobile-first web applications.<br>
-<strong>JavaScript (ES6+):</strong> Crafting interactive, performance-oriented applications with JavaScript.<br>
-<strong>React Context API:</strong> I leverage the Context API for state management across large-scale applications.<br>
-<strong>HTML & CSS:</strong> Solid understanding of semantic HTML and modern CSS for creating beautiful, accessible web pages.<br>
-<strong>Photoshop:</strong> I create my own visuals and graphics, bringing a design-first approach to my projects.
-<strong>jQuery:</strong> I enhance interactivity and simplify DOM manipulation using jQuery in dynamic web projects.
+I'm a **Frontend Developer** with a background in **Mechanical Engineering**, currently working at **Hepta BT**. I build modern web applications with **React and Next.js**, while developing **frontend-focused full-stack capabilities** with Node.js and backend integrations.
 
-<strong>💡 What I'm Working On<br></strong>
-Currently, I'm working on HeptaIT as a Front-End Developer and building web applications with Next.js,HTML,Bootstrap,Tailwind, CSS and JavaScript.
+I have hands-on experience in **e-commerce development (Shopify & WooCommerce)**, including theme customization, storefront improvements, and structured product management. I enjoy transforming **Figma designs into pixel-perfect interfaces**, building scalable UI architectures, and integrating APIs to deliver production-ready web experiences.
 
-<strong>🌱 What I'm Learning<br></strong>
-I'm constantly refining my skills in front-end development and exploring new technologies that enhance user experiences. Now, i'm working on Next.js,in the near future, I plan to learn TypeScript and Golang.
 
-<strong>📌 Fun Facts<br></strong>
-In 2003, I began building my own websites on a platform that allowed users to create ready-made sites. My websites focused on Beyblade and dogs, sparking my early passion for web development and design.
-When I'm not coding, you can find me cooking, watching documentaries, practicing martial arts, or organizing trips outside the city.
-Feel free to check out my repositories and let’s connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokcanparlaktas&layout=compact)](https://github.com/gokcanparlaktas/github-readme-stats)
-<!---
-gokcanparlaktas/gokcanparlaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitors](https://komarev.com/ghpvc/?username=gokcanparlaktas&style=for-the-badge)
+
+# 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gokthedev.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/gokcanparlaktas96/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokcanparlaktas@hotmail.com)
+
+# ⭐ Featured Projects
+
+You might notice that my GitHub activity looks a bit quiet 👀  
+That's because most of my production work lives in private company repositories.
+
+I've worked on **50+ web projects**, and here are some selected examples:
+
+### Selected Projects
+
+• Medical E-Commerce Website  
+• Industrial Kitchen Equipment – Shopify E-Commerce Website  
+• Luxury Yacht Manufacturer – Corporate Website  
+• Defense Industry Corporate Website  
+• Restaurant Website with Multi-Language Support  
+• Luxury Gaming Machines Company – WordPress Website  
+
+🔗 You can explore these projects in more detail on my portfolio:  
+[gokthedev.com](https://gokthedev.com)
+
+⚡ Specialized in: React • Next.js • E-Commerce • AI-assisted Web Features
+
+---
+Technologies and tools I use to build modern web applications.
+
+## 🚀 Tech Stack
+
+| Frontend | Backend & DB | E-Commerce & CMS | Tools & Workflow | AI Integration | Currently Learning & Improving |
+|----------|---------------------|------------------|------------------|----------------|--------------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) | ![Shopify](https://img.shields.io/badge/Shopify-000?style=for-the-badge&logo=shopify) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) | ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-000000?style=for-the-badge&logo=google&logoColor=4285F4) | ![Next.js](https://img.shields.io/badge/Next.js-22c55e?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) | ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express) | ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress) | ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) | ![OCR Validation](https://img.shields.io/badge/OCR_Validation-000000?style=for-the-badge) | ![TypeScript](https://img.shields.io/badge/TypeScript-22c55e?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel) | ![WooCommerce](https://img.shields.io/badge/WooCommerce-000?style=for-the-badge&logo=woocommerce) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) | ![AI Verification](https://img.shields.io/badge/AI_Form_Verification-000000?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) | ![Elementor](https://img.shields.io/badge/Elementor-000?style=for-the-badge&logo=elementor) | ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma) | | ![Express](https://img.shields.io/badge/Express.js-22c55e?style=for-the-badge&logo=express&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) | ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) | ![Liquid](https://img.shields.io/badge/Liquid-000?style=for-the-badge&logo=shopify) | ![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge) | | ![Zustand](https://img.shields.io/badge/Zustand-22c55e?style=for-the-badge) |
+| ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=1572B6) | ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=microsoftsqlserver) | | ![Chrome DevTools](https://img.shields.io/badge/DevTools-000?style=for-the-badge&logo=googlechrome) | | |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss) | | | ![Lighthouse](https://img.shields.io/badge/Lighthouse-000?style=for-the-badge&logo=lighthouse) | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap) | | | ![Bitbucket](https://img.shields.io/badge/Bitbucket-000?style=for-the-badge&logo=bitbucket) | | |
+| ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux) | | | ![Asana](https://img.shields.io/badge/Asana-000?style=for-the-badge&logo=asana) | | |
+| ![jQuery](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jquery) | | | | | |
+| ![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB) | | | | | |
+
+---
+## 🧠 Areas of Focus
+
+- React & Next.js Application Architecture
+- E-Commerce Frontend Development
+- API Integrations & Data Handling
+- AI-assisted Web Features
+- Performance & SEO Optimization
+---
+
+# 💼 Experience
+
+### Front-End Developer  
+Hepta BT (Remote) — 2024 – Present
+
+- Developed **50+ web applications** using React, Next.js, JavaScript, Tailwind CSS and Bootstrap.
+- Translated **Figma designs into pixel-perfect, responsive user interfaces**.
+- Integrated APIs using **Axios and AJAX**, handling form submissions, validation and error states.
+- Contributed to **Next.js production projects**, maintaining pages and implementing new UI features.
+
+- Customized **Shopify e-commerce themes** using Liquid, HTML, CSS and JavaScript.
+- Built structured and reusable content models using **Shopify Metaobjects**.
+- Managed large product catalogs using **CSV imports and bulk data updates**.
+- Implemented **multi-language storefronts** and improved UI/UX responsiveness.
+- Organized product collections and storefront structures for scalable content management.
+
+- Customized **WordPress and WooCommerce websites**, including theme adjustments and layout improvements.
+- Built and modified pages using **Elementor** while also applying code-level customizations.
+- Implemented multi-language support and improved SEO structure and performance.
+- Adjusted frontend behavior and UI components using **HTML, CSS, JavaScript and basic PHP**.
+
+- Built an **AI-powered OCR validation workflow** using Google Gemini API to verify uploaded diploma images against user input.
+- Applied **SEO and performance optimization** using Lighthouse and PageSpeed Insights.
+
+---
