@@ -12,7 +12,8 @@ I have hands-on experience in **e-commerce development (Shopify & WooCommerce)**
 # 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gokthedev.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/gokcanparlaktas96/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/gokcanparlaktas96/)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01a575ebe8fadc029f)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokcanparlaktas@hotmail.com)
 
 # ⭐ Featured Projects
