@@ -68,8 +68,8 @@ Technologies and tools I use to build modern web applications.
 
 # 💼 Experience
 
-### Front-End Developer  
-Hepta BT (Remote) — 2024 – Present
+### Front-End / Full Stack Developer  
+Hepta BT (Remote) — 12.2024 – Present
 
 - Developed **50+ web applications** using React, Next.js, JavaScript, Tailwind CSS and Bootstrap.
 - Translated **Figma designs into pixel-perfect, responsive user interfaces**.
@@ -89,5 +89,21 @@ Hepta BT (Remote) — 2024 – Present
 
 - Built an **AI-powered OCR validation workflow** using Google Gemini API to verify uploaded diploma images against user input.
 - Applied **SEO and performance optimization** using Lighthouse and PageSpeed Insights.
+- Developed **metafield-driven filtering systems** in Shopify, including dynamic filters, custom sorting, and large-scale product handling.
 
+- Built a **custom storefront architecture** using Shopify Storefront API, replacing default collection logic for more flexible product rendering.
+
+- Integrated and debugged **Laravel-based backend APIs**, contributing to both frontend and backend layers in production environments.
+
+- Developed **RAG-based AI chatbot systems** using Gemini API, enabling conversational product search, cart interactions, and customer support automation.
+
+- Implemented **conversational cart operations** (e.g., add/remove products, summarize cart) through AI-driven user interactions.
+
+- Applied **structured data (JSON-LD, Schema.org)** to improve SEO visibility and rich search results.
+
+- Optimized **Core Web Vitals (LCP, CLS, FID)** by improving loading strategies, script management, and asset optimization.
+
+- Worked on **full-stack features**, handling both UI and backend logic when required.
+
+- Built **scalable component structures** and reusable UI systems aligned with modern frontend architecture principles.
 ---
