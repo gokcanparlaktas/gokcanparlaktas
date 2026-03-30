@@ -25,12 +25,12 @@ I've worked on **50+ web projects**, and here are some selected examples:
 
 ### Selected Projects
 
-• Medical E-Commerce Website  
-• Industrial Kitchen Equipment – Shopify E-Commerce Website  
-• Luxury Yacht Manufacturer – Corporate Website  
-• Defense Industry Corporate Website  
-• Restaurant Website with Multi-Language Support  
-• Luxury Gaming Machines Company – WordPress Website  
+- [Medical E-Commerce Website](https://mestmall.com)
+- [Industrial Kitchen Equipment – Shopify E-Commerce Website](https://www.promutfak.com.tr)
+- [Luxury Yacht Manufacturer – Corporate Website](https://numarine.com)
+- [Defense Industry Corporate Website](#) (Coming Soon)
+- [Restaurant Website with Multi-Language Support](https://mecitinantakyamutfagi.com)
+- [Luxury Gaming Machines Company – WordPress Website](https://bytrio.com.tr/)
 
 🔗 You can explore these projects in more detail on my portfolio:  
 [gokthedev.com](https://gokthedev.com)
